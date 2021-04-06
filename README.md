@@ -1,5 +1,4 @@
 # capstone-project
-Phase 1 Project Templates and Examples
 
 # Module 5 Final Project
 
@@ -34,8 +33,6 @@ We conducted models using Naive Bayes and Random Forest, and then proceeded to r
 We then did a further exploration of the data and the differences between common phrases used by introverts/extroverts.
 
 The best result for the classification model is below: - if the link does not work, please see the Image - Test results entry in the repo.
-
-
 
 ! [My screenshot] (https://github.com/alaskalam/capstone-project/blob/template-mvp/testresults.png)
 
